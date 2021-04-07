@@ -1,3 +1,6 @@
+#! https://zhuanlan.zhihu.com/p/362457132
+# 温故而知新 - 重新认识JavaScript的Execution Context
+
 更新下相关知识，立足过往，拥抱未来。
 
 ## 概念

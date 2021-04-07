@@ -1,6 +1,5 @@
----
-highlight: a11y-dark
----
+#! https://zhuanlan.zhihu.com/p/363023930
+# 温故而知新 - 重新认识JavaScript的Hoisting
 
 为JavaScript里面的概念，温故而知新。
 
