@@ -1,3 +1,4 @@
+#! https://zhuanlan.zhihu.com/p/363640347
 # 温故而知新 - 重新认识JavaScript的Closure
 闭包的重温。
 
@@ -6,7 +7,7 @@
 [MDN: Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures) 的定义如下：
 >A **closure** is the combination of a function bundled together (enclosed) with references to its surrounding state (the **lexical environment**). In other words, a closure gives you access to an outer function’s scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
 
-再来看看，来自 [专业性](https://en.wanweibaike.com/wiki-Closure%20(programming) 的解释：
+再来看看，来自 [专业性](https://en.wanweibaike.com/wiki-Closure%20(programming)) 的解释：
 >In programming languages, a **closure**, also **lexical closure** or **function closure**, is a technique for implementing lexically scoped name binding in a language with first-class functions. Operationally, a closure is a record storing a function together with an environment. The environment is a mapping associating each **free variable** of the function (variables that are used locally, but defined in an enclosing scope) with the value or reference to which the name was bound when the closure was created. Unlike a plain function, a closure allows the function to access those *captured variables* through the closure's copies of their values or references, even when the function is invoked outside their scope.
 
 简而言之，`closure`是由一个函数以及声明该函数的词法环境组成。
